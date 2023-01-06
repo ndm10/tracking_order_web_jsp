@@ -80,12 +80,13 @@
                                             <input class="form-control" type="password" placeholder="Password" name="password" required>
                                         </div>
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-7">
                                                 <button class="btn btn-primary px-4" type="submit">Login</button>
+                                                <button class="btn btn-link px-0" type="button">Forgot password?</button>
                                             </div>
                                     </form>
-                                    <div class="col-6 text-end">
-                                        <button class="btn btn-link px-0" type="button">Forgot password?</button>
+                                    <div class="col-5 text-end">
+                                        <a href="#">Login by email</a>
                                     </div>
                                 </div>
                             </div>
